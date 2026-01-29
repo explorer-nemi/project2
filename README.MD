@@ -1,4 +1,7 @@
 # note 
-it is the second local system file directly created 
+1.it is the second local system file directly created .
+2.some changes were done , for learning purpose .
 
-some changes were done , for learning purpose .
+3.you dont have to write repetadly "git push origin main".
+4.just write "git push -u origin main" once and then just 
+        write " git push " .
