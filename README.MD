@@ -7,7 +7,7 @@
         write " git push " .
 
 
-    ->  workflow of git 
+⭐  ->  workflow of git 
             |
         do - changes 
             -
